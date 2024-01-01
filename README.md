@@ -7,4 +7,4 @@ IDsにスクレイピングしたい観光地カテゴリのIDを指定します
 ex)
 歴史的建造物の場合
 
-https://www.jalan.net/kankou/{\br g2_43}/
+https://www.jalan.net/kankou/*g2_43*/
