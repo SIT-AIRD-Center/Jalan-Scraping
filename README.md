@@ -10,3 +10,5 @@ ex)
 https://www.jalan.net/kankou/g2_43/
 
 末尾の**g2_43**が観光地カテゴリのIDとなります
+
+
